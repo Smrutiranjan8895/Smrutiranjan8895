@@ -1,31 +1,411 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Smruti Ranjan Adhikari
-===============================================================================================================================================
+# <div align="center">
 
-AI ML enthusiast
-----------------
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:312E81,60:7C3AED,100:A855F7&text=Smruti%20Ranjan%20Adhikari&fontColor=FFFFFF&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
-Undergrad student at Government Engineering college
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products+with+Engineering+Excellence"/>
 
-* 🌍  I'm based in Odisha
-* ✉️  You can contact me at [smrutiranjanadhikari17@gmail.com](mailto:smrutiranjanadhikari17@gmail.com)
-* 🧠  I'm currently learning Machine learning
-* 👥  I'm looking to collaborate on projects that solves real world problems
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+<p align="center">
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product-Engineering-4F46E5?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### Socials
+<p align="center">
+<img src="https://img.shields.io/badge/Bhubaneswar-Odisha%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Smrutiranjan8895" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/S_R_Adhikari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Smruti Ranjan Adhikari " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Smrutiranjan8895" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Smrutiranjan8895?logo=github&style=for-the-badge&color=444e59&labelColor=14532d" /></a>
-### Badges
+<p align="center">
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1"/>
+<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=A855F7"/>
+</p>
 
-<a href="http://www.github.com/Smrutiranjan8895"><img src="https://github-readme-stats.vercel.app/api?username=Smrutiranjan8895&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=6366f1&icon_color=444e59&bg_color=14532d&hide_border=true&show_icons=true" alt="Smrutiranjan8895's GitHub stats" /></a>
+</div>
 
-<a href="http://www.github.com/Smrutiranjan8895"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Smrutiranjan8895&stroke=6366f1&background=14532d&ring=64748b&fire=64748b&currStreakNum=6366f1&currStreakLabel=64748b&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+---
 
-<a href="https://github.com/Smrutiranjan8895" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smrutiranjan8895&langs_count=10&title_color=64748b&text_color=6366f1&icon_color=444e59&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# About Me
+
+Software Engineering student with a strong passion for building scalable applications, intelligent systems, and production-ready software solutions. My primary focus lies at the intersection of **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
+
+I enjoy transforming ideas into reliable products through clean architecture, efficient algorithms, and modern engineering practices. My development philosophy combines problem-solving, system thinking, automation, and continuous learning.
+
+### Engineering Focus
+
+- Building scalable full-stack applications
+- AI/ML model development and deployment
+- Backend systems and API engineering
+- Data structures, algorithms, and optimization
+- Open-source collaboration
+- Product-centric software development
+- Cloud-native engineering practices
+
+### Open To
+
+- Software Engineering Internships
+- AI/ML Engineering Roles
+- Backend Development Opportunities
+- Full Stack Engineering Projects
+- Open Source Collaborations
+- Research & Innovation Initiatives
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,sql,bash&theme=dark"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite&theme=dark"/>
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&theme=dark"/>
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,vercel&theme=dark"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|-------------|-----------|
+| Machine Learning | Advanced | Supervised, Unsupervised Learning, Model Evaluation |
+| Deep Learning | Intermediate | Neural Networks, CNNs, Transfer Learning |
+| Natural Language Processing | Intermediate | Text Processing, Embeddings, LLM Integrations |
+| Computer Vision | Intermediate | Image Classification, Detection, Recognition |
+| Data Analysis | Advanced | Pandas, NumPy, Visualization, Feature Engineering |
+| MLOps | Intermediate | Model Deployment, APIs, Monitoring |
+| Generative AI | Intermediate | Prompt Engineering, LLM Workflows |
+| AI Product Development | Advanced | End-to-End AI Application Design |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Voice Assistant (Jarvis)</b></summary>
+
+### Overview
+
+An intelligent voice-controlled assistant capable of task automation, command execution, web interaction, and productivity enhancement.
+
+| Metric | Value |
+|----------|--------|
+| Stack | Python, SpeechRecognition, NLP |
+| Scale | Multi-module Assistant |
+| Performance | Low-latency Response System |
+| Security | Controlled Command Execution |
+| Impact | Productivity Automation |
+| Repository | [View Repository](https://github.com/yourusername) |
+
+#### Project Highlights
+
+- Voice-based interaction system
+- Command execution engine
+- Browser automation
+- Intelligent workflow handling
+- Modular architecture
+
+</details>
+
+<details>
+<summary><b>Fingerprint Voting Authentication System</b></summary>
+
+### Overview
+
+Biometric-based authentication system designed to prevent identity duplication and enhance voting integrity.
+
+| Metric | Value |
+|----------|--------|
+| Stack | Python, Biometrics, Database |
+| Scale | Secure Authentication Platform |
+| Performance | Real-time Verification |
+| Security | Biometric Validation |
+| Impact | Fraud Prevention |
+| Repository | [View Repository](https://github.com/yourusername) |
+
+#### Project Highlights
+
+- Fingerprint verification
+- Secure authentication workflow
+- Duplicate vote prevention
+- Database-backed validation
+- High reliability architecture
+
+</details>
+
+<details>
+<summary><b>Agri-Horticultural Commodity Price Prediction</b></summary>
+
+### Overview
+
+Machine learning-based prediction platform for agricultural and horticultural commodity prices.
+
+| Metric | Value |
+|----------|--------|
+| Stack | Python, ML, HTML, CSS |
+| Scale | Data Prediction Platform |
+| Performance | Predictive Analytics Engine |
+| Security | Data Validation Layer |
+| Impact | Market Intelligence |
+| Repository | [View Repository](https://github.com/yourusername) |
+
+#### Project Highlights
+
+- Data preprocessing pipeline
+- Predictive analytics models
+- Interactive user interface
+- Trend forecasting
+- Decision-support insights
+
+</details>
+
+<details>
+<summary><b>AI Career Mentor Platform</b></summary>
+
+### Overview
+
+AI-powered career guidance platform helping learners discover pathways, skills, and growth opportunities.
+
+| Metric | Value |
+|----------|--------|
+| Stack | React, Node.js, AI APIs |
+| Scale | Multi-user Platform |
+| Performance | Optimized User Experience |
+| Security | Authentication & Access Control |
+| Impact | Career Development |
+| Repository | [View Repository](https://github.com/yourusername) |
+
+#### Project Highlights
+
+- Personalized recommendations
+- Career roadmap generation
+- AI-driven guidance
+- Skill gap analysis
+- Scalable architecture
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineering & AI Projects
+
+**Independent Developer**  
+**2024 – Present**
+
+Building intelligent software systems, full-stack applications, and machine learning projects focused on practical impact and engineering quality.
+
+### Scope of Work
+
+- Designing and developing scalable software systems
+- Building AI and ML-powered applications
+- Implementing backend architectures and APIs
+- Creating responsive frontend experiences
+- Applying software engineering best practices
+- Maintaining project documentation and workflows
+
+### Skills
+
+`Python` `Machine Learning` `AI` `React` `Node.js` `SQL` `Git` `System Design`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| AI & ML Projects | Built multiple AI-driven applications |
+| Software Engineering | Developed full-stack and backend systems |
+| Innovation | Designed biometric authentication solutions |
+| Open Source Learning | Continuous contribution and collaboration |
+| Technical Growth | Strong foundation in DSA and software architecture |
+| Product Development | Built practical, user-focused applications |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Database-FF0000?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Elite%20Certified-7C3AED?style=for-the-badge)
+
+## Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Data Structures & Algorithms
+  - Machine Learning Engineering
+  - Deep Learning
+  - System Design
+  - Cloud Computing
+
+Building:
+  - AI Career Mentor Platform
+  - Full Stack Applications
+  - Open Source Projects
+  - Automation Systems
+
+Exploring:
+  - Generative AI
+  - MLOps
+  - Distributed Systems
+  - Large Language Models
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Opportunities
+  - Open Source Collaborations
+  - Technical Communities
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Engineering intelligent systems today to create impactful products for tomorrow."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,30:312E81,60:7C3AED,100:A855F7"/>
+
+</div>
