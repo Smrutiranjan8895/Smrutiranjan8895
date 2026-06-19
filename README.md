@@ -1,5 +1,3 @@
-# Hi, I'm Smruti Ranjan Adhikari👋
-
 # <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:312E81,60:7C3AED,100:A855F7&text=Smruti%20Ranjan%20Adhikari&fontColor=FFFFFF&fontSize=50&fontAlignY=38&animation=fadeIn"/>
